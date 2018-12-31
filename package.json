@@ -1,0 +1,28 @@
+{
+  "name": "proxy-harvester",
+  "version": "1.0.0",
+  "description": "Simple script to retrieve public proxies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimerrahli/proxy-harvester.git"
+  },
+  "keywords": [
+    "peoxies",
+    "proxy"
+  ],
+  "author": "Karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karimerrahli/proxy-harvester/issues"
+  },
+  "homepage": "https://github.com/karimerrahli/proxy-harvester#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "sync-request": "^6.0.0"
+  }
+}
